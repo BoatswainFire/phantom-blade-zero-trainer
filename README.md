@@ -112,7 +112,7 @@ This page is for **Phantom Blade Zero** on Steam (**4115450**). The MoggyDay URL
 
 ### Binary on GitHub?
 
-No — documentation only.
+No — documentation only..
 
 ### One TrainerHub for all games?
 
